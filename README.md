@@ -5,7 +5,7 @@ def  jogar ():
     imprime_mensagem_abertura ()
     palavra_secreta  =  carrega_palavra_secreta ( 1 , "carros.txt" )
 
-    letras_acertadas  =  inicializa_letras_acertadas ( palavra_secreta )
+    letras_acertadas  =  inikauapiazzapacheco0909-0090cializa_letras_acertadas ( palavra_secreta )
     imprimir ( letras_acertadas )
 
     forçando  =  Falso
@@ -121,7 +121,7 @@ def  desenha_forca ( erros ):
         imprima ( " |\" )
         imprima ( " | " )
         imprima ( " | " )
-
+kauapiazzapacheco0909-0090
     if ( erros  ==  3 ):
         imprima ( " | (_) " )
         imprima ( " | \| " )
